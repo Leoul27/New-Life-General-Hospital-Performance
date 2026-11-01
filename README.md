@@ -6,7 +6,7 @@
 - [Introduction](#introduction)
 - [About the dataset](#about-the-dataset)
 - [Problem Statement](#problem-statement)
-- [Visualization – Hospital Performance Dashboard](#visualization-–-Hospital-Performance-Dashboard)
+- [Visualization – Hospital Performance Dashboard](#visualization-Hospital-Performance-Dashboard)
 - [Insights – Key Findings from the Analysis](#insights–Key-Findings-from-the-Analysis)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
