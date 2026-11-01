@@ -1,6 +1,15 @@
 # New-Life-General-Hospital-Performance-Analysis
 <img width="1672" height="941" alt="Introductory Picture" src="https://github.com/user-attachments/assets/bb984382-5f6d-4db8-8d08-50cf6b1ee1ec" />
 
+## Table of Content
+
+- [Introduction](#introduction)
+- [About the dataset](#about-the-dataset)
+- [Problem Statement](#problem-statement)
+- [Visualization – Hospital Performance Dashboard](#visualization-–-Hospital-Performance-Dashboard)
+- [Insights – Key Findings from the Analysis](#insights–Key-Findings-from-the-Analysis)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 ## Introduction
 Healthcare institutions generate large amounts of data through patient admissions, medical treatments, departmental activities, billing, and insurance transactions. However, collecting data alone is not enough; it must be properly analyzed to support effective decision-making.
 This project analyzes New Life General Hospital's patient and financial records for 2024–2025. Its objective is to transform raw hospital data into meaningful insights through data analysis and visualization. The analysis explores patient demographics, departmental performance, hospital billing, payment status, insurance coverage, and patient length of stay.
