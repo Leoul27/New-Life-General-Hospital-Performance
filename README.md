@@ -125,5 +125,15 @@ Despite the reduction in patient numbers and total billing, the hospital recorde
 |Carpal Tunnel	|37|
 
 Pneumonia is the most frequently recorded diagnosis, with 43 patient records. This information can help the hospital understand the distribution of recorded medical conditions and plan relevant resources.
-#### Important data-quality observation
-The Unpaid column is calculated exactly as Total Bill Amount minus Estimated Insurance Coverage Amount. It therefore appears to represent the amount remaining after the estimated insurance coverage, rather than the actual outstanding unpaid balance. A patient can have a Paid status while still having a positive value in this column. The field should not be presented as outstanding debt without further verification.
+## Recommendations
+1.	Strengthen financial monitoring: Regularly monitor billed amounts, collected payments, pending payments, and partially paid accounts. Distinguish insurance responsibility, patient responsibility, and actual outstanding balances.
+2.	Improve departmental resource allocation: Orthopedics and Cardiology contribute approximately 57.7% of total hospital billing. Evaluate whether staffing, medical equipment, and other resources are appropriately allocated to these departments.
+3.	Investigate declining patient volume: The reduction in patient admissions from 508 in 2024 to 492 in 2025 should be investigated. Examine patient satisfaction, service availability, referral patterns, and other factors that may influence patient visits.
+4.	Monitor long-stay departments: Review patient care processes, discharge planning, and resource utilization in Orthopedics, Neurology, and Cardiology, which have relatively longer average hospitalization periods.
+5.	Develop age-specific healthcare planning: Patients aged 51 and above represent 47.8% of the recorded population. Consider appropriate staffing, medical equipment, and healthcare services for this patient group.
+6.	Improve insurance and payment management: Strengthen coordination with insurance providers and establish effective payment follow-up procedures to improve financial transparency and collection efficiency.
+7.	Establish continuous performance monitoring: Use the dashboard to monitor monthly and annual performance, identify emerging trends, and support evidence-based decisions.
+## Conclusion
+This project demonstrates how raw hospital records can be transformed into meaningful business intelligence through data analysis and visualization. By examining 1,000 patient records across six hospital departments over two years, the analysis provides valuable insights into patient demographics, departmental performance, financial activities, insurance coverage, and hospitalization patterns.
+The findings reveal that General Medicine handles the highest number of patients, while Orthopedics generates the highest billing revenue and has the longest average patient stay. The analysis also highlights changes in annual financial performance and identifies areas requiring further investigation.
+Overall, the project demonstrates the importance of data-driven decision-making in healthcare management. A well-designed performance dashboard can help hospital administrators monitor key performance indicators, identify operational challenges, improve financial oversight, and make more informed strategic decisions.
